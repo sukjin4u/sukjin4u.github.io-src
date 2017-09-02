@@ -2,12 +2,12 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Seokjin Lee'
-SITENAME = u'http://sukjin4u.github.io'
+SITENAME = u'Seokjin Lee'
 SITEURL = ''
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Canada/Pacific'
 
 DEFAULT_LANG = u'en'
 
